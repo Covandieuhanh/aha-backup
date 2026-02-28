@@ -1323,63 +1323,8 @@
       "createdAt": "2026-02-27T11:18:03.045Z"
     }
   ],
-  "visits": [
-    {
-      "id": "visit-x6yau0-1772213495193",
-      "customerId": "cus-yct1a1-1772213196858",
-      "productId": "prd-xikclf-1772213278655",
-      "date": "2026-02-27",
-      "revenue": 169000,
-      "occurrence": 1,
-      "rate": 0.05,
-      "voucher": 8450,
-      "createdAt": "2026-02-27T17:31:35.193Z"
-    }
-  ],
-  "referrals": [
-    {
-      "id": "ref-6s9duo-1772213757562",
-      "referrerId": "user-j4c7dd-1772213646799",
-      "referredCustomerId": "cus-6h28y3-1772213196858",
-      "referredName": "",
-      "sourceVisitId": "",
-      "productId": "prd-x7igm9-1772213265610",
-      "date": "2026-02-27",
-      "revenue": 99000,
-      "occurrence": 2,
-      "rate": 0.1,
-      "commission": 9900,
-      "createdAt": "2026-02-27T17:35:57.562Z"
-    },
-    {
-      "id": "ref-qi85w0-1772213714492",
-      "referrerId": "user-j4c7dd-1772213646799",
-      "referredCustomerId": "cus-h8ta3w-1772213196858",
-      "referredName": "",
-      "sourceVisitId": "",
-      "productId": "prd-x7igm9-1772213265610",
-      "date": "2026-02-27",
-      "revenue": 69000,
-      "occurrence": 1,
-      "rate": 0.05,
-      "commission": 3450,
-      "createdAt": "2026-02-27T17:35:14.492Z"
-    },
-    {
-      "id": "ref-dxy0bm-1772213515586",
-      "referrerId": "user-lu8czr-1772213440818",
-      "referredCustomerId": "cus-yct1a1-1772213196858",
-      "referredName": "",
-      "sourceVisitId": "",
-      "productId": "prd-xikclf-1772213278655",
-      "date": "2026-02-27",
-      "revenue": 169000,
-      "occurrence": 1,
-      "rate": 0.05,
-      "commission": 8450,
-      "createdAt": "2026-02-27T17:31:55.586Z"
-    }
-  ],
+  "visits": [],
+  "referrals": [],
   "users": [
     {
       "id": "user-admin-default",
