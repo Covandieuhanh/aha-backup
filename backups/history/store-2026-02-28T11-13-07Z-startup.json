@@ -1,0 +1,1493 @@
+{
+  "customers": [
+    {
+      "id": "cus-2mhitv-1772213196858",
+      "name": "Nguyễn Ngọc Anh (Cố vấn)",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-6h28y3-1772213196858",
+      "name": "Nguyễn Thị Ngọc Ánh",
+      "phone": "0826884931",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-ddp6zp-1772213196858",
+      "name": "Nguyễn Thị Duyên",
+      "phone": "0397330438",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-ift73m-1772213196858",
+      "name": "Hoàng Thắng Vĩ",
+      "phone": "0905585559",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-rqqji3-1772213196858",
+      "name": "Trần Thị Giang",
+      "phone": "0966297766",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-h8ta3w-1772213196858",
+      "name": "Đặng Thị Kỳ",
+      "phone": "0784943313",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-5ff7rw-1772213196858",
+      "name": "Đinh Thanh Tuấn",
+      "phone": "0849867213",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-u6x9w9-1772213196858",
+      "name": "Phạm Thị Bích Liên (Sunny)",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-yct1a1-1772213196858",
+      "name": "Trần Đức Cường",
+      "phone": "0868877686",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-jkrxbn-1772213196858",
+      "name": "Nguyễn Quốc Kiệt",
+      "phone": "0941226395",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-9g9umu-1772213196858",
+      "name": "Nguyễn Kim Quang",
+      "phone": "0935534135",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-5x8hvb-1772213196858",
+      "name": "Thế Tâm",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-raxlpr-1772213196858",
+      "name": "Anh Tú",
+      "phone": "0762567829",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-u1ualu-1772213196858",
+      "name": "Nguyễn Thị Luyện",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-rnlhgg-1772213196858",
+      "name": "Nguyễn Thị Bích",
+      "phone": "0766686315",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-mhboq2-1772213196858",
+      "name": "Nguyễn Văn Nam",
+      "phone": "0901518618",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-2f0lni-1772213196858",
+      "name": "Ngô Thị Hồng",
+      "phone": "0376946272",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-evqmhi-1772213196858",
+      "name": "Hà Văn Trung",
+      "phone": "0979292936",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-3uaru0-1772213196858",
+      "name": "Nguyễn Hữu Đức",
+      "phone": "0913177497",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-wwju0h-1772213196858",
+      "name": "Nguyễn Hoài Chương",
+      "phone": "0946845399",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-b4uqac-1772213196858",
+      "name": "Nguyễn Đức Minh",
+      "phone": "0985274949",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-nm0i39-1772213196858",
+      "name": "Huỳnh Ngọc Liêm",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-d4z5i6-1772213196858",
+      "name": "Bùi Thị Hương",
+      "phone": "0377924834",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-x9328b-1772213196858",
+      "name": "Lê Thị Quyên",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-5p4wru-1772213196858",
+      "name": "Phan Thanh Hà",
+      "phone": "0913737833",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-n9tcj8-1772213196858",
+      "name": "Lê Đăng Vương",
+      "phone": "0901169899",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-trskce-1772213196858",
+      "name": "Nguyễn Thị Mỹ Dung",
+      "phone": "0903399979",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-kne40j-1772213196858",
+      "name": "Trần Văn Hương",
+      "phone": "0933002083",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-ao0041-1772213196858",
+      "name": "Trần Hải Phong",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-ll3hye-1772213196858",
+      "name": "Nguyễn Văn Tân",
+      "phone": "0976992228",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-6pe6un-1772213196858",
+      "name": "Võ Văn Lâm",
+      "phone": "0815434866",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-52s73d-1772213196858",
+      "name": "Tôn Thị Thu",
+      "phone": "0789457688",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-zyog9c-1772213196858",
+      "name": "Trần Thị Tuyết Lan",
+      "phone": "0945866385",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-szh8ar-1772213196858",
+      "name": "Trần Anh Bình",
+      "phone": "0937438479",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-2jpx3i-1772213196858",
+      "name": "Nguyễn Chí Cường",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-n4s9ll-1772213196858",
+      "name": "Nguyễn Thị Tam",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-idxpm1-1772213196858",
+      "name": "Trần Tùng Lâm",
+      "phone": "0776611611",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-kwg90p-1772213196858",
+      "name": "Nguyễn Văn Chường",
+      "phone": "0366161633",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-ki54vb-1772213196858",
+      "name": "Trần Đình Huế",
+      "phone": "0917269026",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-lpa4cf-1772213196858",
+      "name": "Nguyễn Thị Liễu",
+      "phone": "0779869065",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-bvep12-1772213196858",
+      "name": "Phùng Thị Thương",
+      "phone": "0852948613",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-k54g6n-1772213196858",
+      "name": "Trần Duy Dũng",
+      "phone": "0977642115",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-oz1imz-1772213196858",
+      "name": "Vũ Thị Trinh",
+      "phone": "0867786839",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-gz26nq-1772213196858",
+      "name": "Trần Thị Hoài",
+      "phone": "0908416164",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-yk8bz4-1772213196858",
+      "name": "Đặng Văn Hiếu",
+      "phone": "0909513883",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-rabhjn-1772213196858",
+      "name": "Hồng Đinh",
+      "phone": "0901675647",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-k821rj-1772213196858",
+      "name": "Lê Kiên Cường",
+      "phone": "0868228131",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-98a1b7-1772213196858",
+      "name": "Trần Thị Huệ",
+      "phone": "0825596717",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-6n8728-1772213196858",
+      "name": "Trần Thị Thuận",
+      "phone": "0976644299",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-oc2jj3-1772213196858",
+      "name": "Hoàng Thị Trâm",
+      "phone": "0902990955",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-pbi4eu-1772213196858",
+      "name": "Trần Thị Nhung",
+      "phone": "0348203738",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-f687br-1772213196858",
+      "name": "Trần Phượng",
+      "phone": "0813437268",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-9tnfv1-1772213196858",
+      "name": "Trần Thanh Tùng",
+      "phone": "0977278676",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-4ecghw-1772213196858",
+      "name": "Trần Thị Phương",
+      "phone": "0377276931",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-f6pedg-1772213196858",
+      "name": "Phạm Duy Lệ",
+      "phone": "0878913939",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-ro47l9-1772213196858",
+      "name": "Phan Khắc Bình",
+      "phone": "0985084878",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-e0n5m0-1772213196858",
+      "name": "Phạm Thị Vy Trinh",
+      "phone": "0394629139",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-1w7s8v-1772213196858",
+      "name": "Lê Thị Lan",
+      "phone": "0866577757",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-a89547-1772213196858",
+      "name": "Vũ Thị Hoài",
+      "phone": "0901551983",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-47l01j-1772213196858",
+      "name": "Tạ Văn Tuấn",
+      "phone": "0868595339",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-lwvfvo-1772213196858",
+      "name": "Lương Thị Oanh",
+      "phone": "0968448436",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-4ib06c-1772213196858",
+      "name": "Bé Hai",
+      "phone": "0976045681",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-uv1eig-1772213196858",
+      "name": "Diệu",
+      "phone": "0792259446",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-r3zav5-1772213196858",
+      "name": "Nguyễn Duy Khôi",
+      "phone": "0908008842",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-6bzz0r-1772213196858",
+      "name": "Hoàng Thị Mai Dung",
+      "phone": "0868417866",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-7r092o-1772213196858",
+      "name": "Trần Hải Nam",
+      "phone": "0968345664",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-rwraut-1772213196858",
+      "name": "Nguyễn Xuân Cường",
+      "phone": "0914879913",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-drqrr7-1772213196858",
+      "name": "Lê Trúc Phương",
+      "phone": "0866133572",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-xnl99t-1772213196858",
+      "name": "Phạm Mạnh Thương",
+      "phone": "0966361239",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-rp3tk1-1772213196858",
+      "name": "Nguyễn Thị Thu",
+      "phone": "0972797818",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-z3mugd-1772213196858",
+      "name": "Trần Quang Kiện",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-9ukxeb-1772213196858",
+      "name": "Tăng Minh Huyền",
+      "phone": "0798232034",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-w0ibiz-1772213196858",
+      "name": "Mai Thị Bích Ngọc",
+      "phone": "0984540235",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-2yzz53-1772213196858",
+      "name": "Tiến",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-4w5uo1-1772213196858",
+      "name": "Trương Bảo Huy",
+      "phone": "0394749588",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-mw9rz7-1772213196858",
+      "name": "Đoàn Thị Bình",
+      "phone": "0916668333",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-4vpmrq-1772213196858",
+      "name": "Phạm Kim Tuyết",
+      "phone": "0909211700",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-ugvj7c-1772213196858",
+      "name": "Hà Thị Trinh",
+      "phone": "0385189457",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-tpanup-1772213196858",
+      "name": "Huỳnh Thị Sương",
+      "phone": "0972476150",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-gj8cys-1772213196858",
+      "name": "Nguyễn Quốc Mịnh",
+      "phone": "0916060200",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-hz47a1-1772213196858",
+      "name": "Hoàng Thị Xuân",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-m4ghq1-1772213196858",
+      "name": "Nguyễn Thị Phượng",
+      "phone": "0967164715",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-lkkhtv-1772213196858",
+      "name": "Nguyễn Thị Huyền",
+      "phone": "0981260395",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-vwwkke-1772213196858",
+      "name": "Lê Thị Thọ",
+      "phone": "0394968213",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-mr07c1-1772213196858",
+      "name": "Thịnh Đức Hào",
+      "phone": "0343937868",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-2rlx9i-1772213196858",
+      "name": "Đỗ Bảo Anh Thư",
+      "phone": "0398159723",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-fcgpiy-1772213196858",
+      "name": "Trần Quang Tiến",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-d4nzjc-1772213196858",
+      "name": "Lương Thị Huyền",
+      "phone": "0946575249",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-x0sno1-1772213196858",
+      "name": "Lưu Hải Tiến",
+      "phone": "0963966399",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-rdekhh-1772213196858",
+      "name": "Phạm Văn Hà",
+      "phone": "0965849679",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-siocwd-1772213196858",
+      "name": "Lê Thị Diễm Hương",
+      "phone": "0783136866",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-ltgog6-1772213196858",
+      "name": "Mai Tấn Hiếu",
+      "phone": "0969182934",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-oqo5bf-1772213196858",
+      "name": "Nguyễn Ngọc Hạnh",
+      "phone": "0937206505",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-nyeaii-1772213196858",
+      "name": "Trần Thị Phương Hiếu",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-j3de94-1772213196858",
+      "name": "Trương Minh Cường",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.858Z"
+    },
+    {
+      "id": "cus-jdzjzv-1772213196859",
+      "name": "Ngô Văn Cường",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-xptjnh-1772213196859",
+      "name": "Nguyễn Thị Huỳnh Trang",
+      "phone": "0901624746",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-cfdp73-1772213196859",
+      "name": "Mai Thị Tuyết",
+      "phone": "0987185639",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-5io2b8-1772213196859",
+      "name": "Lê Thái Tâm Tri",
+      "phone": "0943143941",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-6c8ivu-1772213196859",
+      "name": "Phan Bá Sơn Lâm",
+      "phone": "0916874133",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-whrcnm-1772213196859",
+      "name": "Vũ Thị Minh Hồng",
+      "phone": "0948257937",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-f1wiua-1772213196859",
+      "name": "Lê Thị Hòa Thuận",
+      "phone": "0908960809",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-nktfkp-1772213196859",
+      "name": "Trịnh Thanh Trúc",
+      "phone": "0908330969",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-rmup0d-1772213196859",
+      "name": "Nguyễn Thị Bích Ngọc",
+      "phone": "0936925059",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-u1qejj-1772213196859",
+      "name": "Nguyễn Ngọc Diệp",
+      "phone": "0919369698",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-525fw8-1772213196859",
+      "name": "An Minh Tiến",
+      "phone": "0975759059",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-1soaqd-1772213196859",
+      "name": "Lê Thanh Nhi",
+      "phone": "0964698469",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-57vbtm-1772213196859",
+      "name": "Hoàng Thị Trâm",
+      "phone": "0902990955",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-nq743t-1772213196859",
+      "name": "Nguyễn Thị Thủy",
+      "phone": "0388169113",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-7vpw28-1772213196859",
+      "name": "Nguyễn Thị Lan",
+      "phone": "0326878613",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-fy5i8c-1772213196859",
+      "name": "Lê Thị Hảo",
+      "phone": "0347470745",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-32yd22-1772213196859",
+      "name": "Nguyễn Văn Khoa",
+      "phone": "0983053579",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-chmtaf-1772213196859",
+      "name": "Nguyễn Thị Nữ",
+      "phone": "0938799919",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-cwe68g-1772213196859",
+      "name": "Lê Thị Ngọc Bích",
+      "phone": "088394886",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-0pe94k-1772213196859",
+      "name": "Lý Thành Minh",
+      "phone": "0934129569",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-al5mkb-1772213196859",
+      "name": "Lê Gia Như",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-o5cfbq-1772213196859",
+      "name": "Phi Dũng",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-tl6afo-1772213196859",
+      "name": "Đoàn Thị Ngoan",
+      "phone": "0375513848",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-mfivk7-1772213196859",
+      "name": "Dương Phú Anh",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-4ua4u7-1772213196859",
+      "name": "Mark",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-kxshgx-1772213196859",
+      "name": "Cao Hoàng Miu",
+      "phone": "0989209789",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-ii1tfc-1772213196859",
+      "name": "Phạm Công Tân",
+      "phone": "0338508282",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-y2b9wz-1772213196859",
+      "name": "Trần Quốc Quang Minh",
+      "phone": "0799883866",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-7da40t-1772213196859",
+      "name": "Phan Thị Tài",
+      "phone": "0949472867",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-59l2p7-1772213196859",
+      "name": "Phạm Thị Bích Huệ",
+      "phone": "085768777",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-xm8t8x-1772213196859",
+      "name": "Nguyễn Văn Ba",
+      "phone": "0964592229",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-w3q2e2-1772213196859",
+      "name": "Lê Trọng Lượng",
+      "phone": "0908757096",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-dvbv60-1772213196859",
+      "name": "Trần Đình Quảng",
+      "phone": "0983221446",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-1ctp81-1772213196859",
+      "name": "Tạ Thị Ánh",
+      "phone": "0934814246",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-b892hi-1772213196859",
+      "name": "Nguyễn Thị Kim Tuyến",
+      "phone": "0352323958",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-nuic3f-1772213196859",
+      "name": "Trịnh Bửu Sang",
+      "phone": "0356623790",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-7nnwb3-1772213196859",
+      "name": "Phạm Bảo Chánh",
+      "phone": "0917412436",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-5s3sc3-1772213196859",
+      "name": "Nguyễn Hồng Cẩm",
+      "phone": "0395365977",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-xg8fga-1772213196859",
+      "name": "Đậu Đình Hoàng",
+      "phone": "0946705229",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-uv4wsy-1772213196859",
+      "name": "Trịnh Thị Hoa",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-wyg78n-1772213196859",
+      "name": "Vũ Thị Thơm",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-75y1g6-1772213196859",
+      "name": "Phan Quốc Tuấn",
+      "phone": "0974178851",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-vfdzdz-1772213196859",
+      "name": "Nguyễn Thị Tuyết",
+      "phone": "0902385153",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-jz61pe-1772213196859",
+      "name": "Lương Thị Nguyệt",
+      "phone": "0942282238",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-nzss1b-1772213196859",
+      "name": "Nguyễn Thị Thanh Thủy",
+      "phone": "0975485378",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-pj0ogw-1772213196859",
+      "name": "Đỗ Thị Huệ",
+      "phone": "0849273134",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-ez1ctg-1772213196859",
+      "name": "Lê Thị Tý",
+      "phone": "0333671621",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-c2nu2d-1772213196859",
+      "name": "Nguyễn Thị Khen",
+      "phone": "",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-4oa8ly-1772213196859",
+      "name": "Trương Thị Tú Hương",
+      "phone": "0364734367",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-ndk9at-1772213196859",
+      "name": "Bùi Đình Đồng",
+      "phone": "0983175112",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-5950lh-1772213196859",
+      "name": "Đỗ Thị Ngần",
+      "phone": "0983175112",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-y959m2-1772213196859",
+      "name": "Lê Thị Thùy Mai",
+      "phone": "0908512513",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-k8ppuo-1772213196859",
+      "name": "Phan Thị Mai",
+      "phone": "0378519274",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-0g2cs6-1772213196859",
+      "name": "Trần Thị Huệ",
+      "phone": "0918661486",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-ybfdyc-1772213196859",
+      "name": "Lương Thị Tâm",
+      "phone": "0918388149",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-l71ygd-1772213196859",
+      "name": "Hà Thị Hiên",
+      "phone": "0332092875",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-8aimtj-1772213196859",
+      "name": "Nguyễn Thuận Hòa",
+      "phone": "0903027687",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-7mc8qb-1772213196859",
+      "name": "Lương Thị Huỳnh Nga",
+      "phone": "0909917224",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-5m58ik-1772213196859",
+      "name": "Đặng Đình Khang",
+      "phone": "0785811368",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-3elb7c-1772213196859",
+      "name": "Bùi Thị Thái",
+      "phone": "0378459621",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-m9ht3d-1772213196859",
+      "name": "Lê Văn Thôi",
+      "phone": "0378459621",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-xk7ukg-1772213196859",
+      "name": "Điểu Huỳnh",
+      "phone": "0874279665",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-rat2qj-1772213196859",
+      "name": "Nguyễn Thị Mỹ",
+      "phone": "0902373060",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-n8l5dd-1772213196859",
+      "name": "Đoàn Kim Xuân",
+      "phone": "0902373060",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-y4yab7-1772213196859",
+      "name": "Phạm Chí Phúc",
+      "phone": "0888188238",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-m3fnv9-1772213196859",
+      "name": "Nguyễn Huỳnh Giang",
+      "phone": "07833673639",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T17:26:36.859Z"
+    },
+    {
+      "id": "cus-oygphp-1772191005323",
+      "name": "Cường",
+      "phone": "0326824915",
+      "email": "",
+      "note": "",
+      "createdAt": "2026-02-27T11:16:45.323Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "prd-xikclf-1772213278655",
+      "name": "Gội đầu dưỡng sinh cao cấp",
+      "code": "",
+      "defaultPrice": 169000,
+      "note": "",
+      "createdAt": "2026-02-27T17:27:58.655Z"
+    },
+    {
+      "id": "prd-x7igm9-1772213265610",
+      "name": "Gội đầu thảo dược",
+      "code": "",
+      "defaultPrice": 129000,
+      "note": "",
+      "createdAt": "2026-02-27T17:27:45.610Z"
+    },
+    {
+      "id": "prd-4zst1m-1772191083045",
+      "name": "Gội đầu thư giãn",
+      "code": "",
+      "defaultPrice": 69000,
+      "note": "",
+      "createdAt": "2026-02-27T11:18:03.045Z"
+    }
+  ],
+  "visits": [
+    {
+      "id": "visit-x6yau0-1772213495193",
+      "customerId": "cus-yct1a1-1772213196858",
+      "productId": "prd-xikclf-1772213278655",
+      "date": "2026-02-27",
+      "revenue": 169000,
+      "occurrence": 1,
+      "rate": 0.05,
+      "voucher": 8450,
+      "createdAt": "2026-02-27T17:31:35.193Z"
+    }
+  ],
+  "referrals": [
+    {
+      "id": "ref-6s9duo-1772213757562",
+      "referrerId": "user-j4c7dd-1772213646799",
+      "referredCustomerId": "cus-6h28y3-1772213196858",
+      "referredName": "",
+      "sourceVisitId": "",
+      "productId": "prd-x7igm9-1772213265610",
+      "date": "2026-02-27",
+      "revenue": 99000,
+      "occurrence": 2,
+      "rate": 0.1,
+      "commission": 9900,
+      "createdAt": "2026-02-27T17:35:57.562Z"
+    },
+    {
+      "id": "ref-qi85w0-1772213714492",
+      "referrerId": "user-j4c7dd-1772213646799",
+      "referredCustomerId": "cus-h8ta3w-1772213196858",
+      "referredName": "",
+      "sourceVisitId": "",
+      "productId": "prd-x7igm9-1772213265610",
+      "date": "2026-02-27",
+      "revenue": 69000,
+      "occurrence": 1,
+      "rate": 0.05,
+      "commission": 3450,
+      "createdAt": "2026-02-27T17:35:14.492Z"
+    },
+    {
+      "id": "ref-dxy0bm-1772213515586",
+      "referrerId": "user-lu8czr-1772213440818",
+      "referredCustomerId": "cus-yct1a1-1772213196858",
+      "referredName": "",
+      "sourceVisitId": "",
+      "productId": "prd-xikclf-1772213278655",
+      "date": "2026-02-27",
+      "revenue": 169000,
+      "occurrence": 1,
+      "rate": 0.05,
+      "commission": 8450,
+      "createdAt": "2026-02-27T17:31:55.586Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin-default",
+      "username": "admin",
+      "fullName": "Quản trị Aha",
+      "role": "admin",
+      "locked": false,
+      "permissions": {
+        "customers": true,
+        "customerEdit": true,
+        "products": true,
+        "productsEdit": true,
+        "productsDelete": true,
+        "visits": true,
+        "visitsEdit": true,
+        "visitsDelete": true,
+        "referrals": true,
+        "referralsEdit": true,
+        "referralsDelete": true,
+        "reports": true,
+        "reportsAll": true,
+        "dataCleanup": true,
+        "backupData": true,
+        "changePassword": true
+      },
+      "passwordHash": "$2b$10$ntEezZRgSf3nxN7rQlBP6eDEkSJLnzuj2U8inW90pMxjj2ABAd66q",
+      "createdAt": "2026-02-27T11:16:40.825Z"
+    },
+    {
+      "id": "user-ueguzh-1772213326608",
+      "username": "0326824915",
+      "fullName": "Trần Cường",
+      "role": "member",
+      "locked": false,
+      "permissions": {
+        "customers": true,
+        "customerEdit": true,
+        "products": true,
+        "productsEdit": true,
+        "productsDelete": true,
+        "visits": true,
+        "visitsEdit": true,
+        "visitsDelete": true,
+        "referrals": true,
+        "referralsEdit": true,
+        "referralsDelete": true,
+        "reports": true,
+        "reportsAll": true,
+        "dataCleanup": true,
+        "backupData": true,
+        "changePassword": true
+      },
+      "passwordHash": "$2b$10$FZ9pD02.MdvCdtvZ6Ao0ieMA8Do68nyMsXIdDtZU1CLVTPqQ9aAKO",
+      "createdAt": "2026-02-27T17:28:46.688Z"
+    },
+    {
+      "id": "user-lu8czr-1772213440818",
+      "username": "0794347631",
+      "fullName": "Minh Pháp",
+      "role": "member",
+      "locked": false,
+      "permissions": {
+        "customers": true,
+        "customerEdit": false,
+        "products": false,
+        "productsEdit": false,
+        "productsDelete": false,
+        "visits": false,
+        "visitsEdit": false,
+        "visitsDelete": false,
+        "referrals": false,
+        "referralsEdit": false,
+        "referralsDelete": false,
+        "reports": true,
+        "reportsAll": true,
+        "dataCleanup": false,
+        "backupData": false,
+        "changePassword": true
+      },
+      "passwordHash": "$2b$10$iiJxlyBbXEes2xPvtFcs2.oD6YsuZNmrmcB6Cb80P54VPL.cZsMlS",
+      "createdAt": "2026-02-27T17:30:40.892Z"
+    },
+    {
+      "id": "user-j4c7dd-1772213646799",
+      "username": "0935537868",
+      "fullName": "Sunny",
+      "role": "member",
+      "locked": false,
+      "permissions": {
+        "customers": true,
+        "customerEdit": true,
+        "products": false,
+        "productsEdit": false,
+        "productsDelete": false,
+        "visits": false,
+        "visitsEdit": false,
+        "visitsDelete": false,
+        "referrals": false,
+        "referralsEdit": false,
+        "referralsDelete": false,
+        "reports": true,
+        "reportsAll": true,
+        "dataCleanup": false,
+        "backupData": false,
+        "changePassword": true
+      },
+      "passwordHash": "$2b$10$QHY60fu.OHpzWD5qYxHrKOwO1Ss0j0td.Ps1KWhhmsD7n7fYaE5Fu",
+      "createdAt": "2026-02-27T17:34:06.874Z"
+    }
+  ]
+}
