@@ -1434,5 +1434,6 @@
       "passwordHash": "$2b$10$QHY60fu.OHpzWD5qYxHrKOwO1Ss0j0td.Ps1KWhhmsD7n7fYaE5Fu",
       "createdAt": "2026-02-27T17:34:06.874Z"
     }
-  ]
+  ],
+  "pushSubscriptions": []
 }
