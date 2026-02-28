@@ -1427,7 +1427,7 @@
         "referralsEdit": true,
         "referralsDelete": true,
         "reports": true,
-        "reportsAll": false,
+        "reportsAll": true,
         "dataCleanup": true,
         "backupData": true,
         "changePassword": true
