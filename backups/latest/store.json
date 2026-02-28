@@ -1435,5 +1435,18 @@
       "createdAt": "2026-02-27T17:34:06.874Z"
     }
   ],
-  "pushSubscriptions": []
+  "pushSubscriptions": [
+    {
+      "id": "push-mgpq60-1772296217443",
+      "userId": "user-admin-default",
+      "endpoint": "https://fcm.googleapis.com/fcm/send/eDMiEVtJMyI:APA91bFTjt5TpnlXGTH_L6KM0X-TpnraMxE9za4q6EZcPQ4-rCRxq-ZKsJiKKvGuHOXel8kVw8Ah9qx539C0-cEMM964M4chSJYpfQiYxdHSeUEXWZ_h4VRhqNfWrs63AdOQU6BiFaCv",
+      "keys": {
+        "p256dh": "BA5RIDlbSjBM8DlSjkF-7qe16EJuhVVioKzcD-u_HXhA46Kdrom7ovwgSw7bWLhPvG-ozNIItTx7CntGXLJYXeQ",
+        "auth": "L_xsOI4d0Sdzi7SKW-oRQQ"
+      },
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "createdAt": "2026-02-28T16:30:17.443Z",
+      "lastActiveAt": "2026-02-28T16:30:17.443Z"
+    }
+  ]
 }
