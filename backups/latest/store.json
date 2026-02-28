@@ -1481,7 +1481,7 @@
         "referralsEdit": false,
         "referralsDelete": false,
         "reports": true,
-        "reportsAll": false,
+        "reportsAll": true,
         "dataCleanup": false,
         "backupData": false,
         "changePassword": true
