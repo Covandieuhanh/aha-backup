@@ -1400,6 +1400,7 @@
         "referralsEdit": true,
         "referralsDelete": true,
         "reports": true,
+        "reportsAll": true,
         "dataCleanup": true,
         "backupData": true,
         "changePassword": true
@@ -1426,6 +1427,7 @@
         "referralsEdit": true,
         "referralsDelete": true,
         "reports": true,
+        "reportsAll": false,
         "dataCleanup": true,
         "backupData": true,
         "changePassword": true
@@ -1452,6 +1454,7 @@
         "referralsEdit": false,
         "referralsDelete": false,
         "reports": true,
+        "reportsAll": false,
         "dataCleanup": false,
         "backupData": false,
         "changePassword": true
@@ -1478,6 +1481,7 @@
         "referralsEdit": false,
         "referralsDelete": false,
         "reports": true,
+        "reportsAll": false,
         "dataCleanup": false,
         "backupData": false,
         "changePassword": true
