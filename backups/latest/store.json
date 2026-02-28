@@ -1,14 +1,6 @@
 {
   "customers": [
     {
-      "id": "cus-rf3kat-1772256805419",
-      "name": "Test 2026",
-      "phone": "123123",
-      "email": "",
-      "note": "",
-      "createdAt": "2026-02-28T05:33:25.419Z"
-    },
-    {
       "id": "cus-2mhitv-1772213196858",
       "name": "Nguyễn Ngọc Anh (Cố vấn)",
       "phone": "",
