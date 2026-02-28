@@ -1447,6 +1447,18 @@
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
       "createdAt": "2026-02-28T16:30:17.443Z",
       "lastActiveAt": "2026-02-28T16:30:17.443Z"
+    },
+    {
+      "id": "push-s75jw5-1772298021170",
+      "userId": "user-ueguzh-1772213326608",
+      "endpoint": "https://web.push.apple.com/QGUahnYsw9k7s2nE-rDdITa2W5AMTMjGoKdrV8Eu2fS8kjlDvaJpHhLKkc2cXlcsdVauMm_miO4jbMt-CYwjPvn3zvRpRhIm7YiAPFHm0II8vLGr2MgARbbwgX1R9kTcHzOpcrXmVhNNfAbJML0fvNKnz8y2sJ0htZTfdgKoALw",
+      "keys": {
+        "p256dh": "BDajV0W1MKwQ5Wjc1SqbU5xUaXit7j-nJC3pstc-ayimpS0X3Tx2ozl5pvmPOUmdr_DUCVuTpddLNE4A3dbKCpk",
+        "auth": "Axj6HUZ1aXMaGsrj3iIJ7Q"
+      },
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1",
+      "createdAt": "2026-02-28T17:00:21.170Z",
+      "lastActiveAt": "2026-02-28T17:00:21.170Z"
     }
   ]
 }
