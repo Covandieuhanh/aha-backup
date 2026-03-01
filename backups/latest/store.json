@@ -1537,5 +1537,18 @@
       "createdAt": "2026-02-27T17:34:06.874Z"
     }
   ],
-  "pushSubscriptions": []
+  "pushSubscriptions": [
+    {
+      "id": "push-r25568-1772347895308",
+      "userId": "user-ueguzh-1772213326608",
+      "endpoint": "https://web.push.apple.com/QFXHRQ1IDZTO51EXqlSCOTS3Mp0arz1urX9Fb_DHzSJSP_t61AFbzzQNLQYkrFJzDTSVZdJYu7QuyIvtKOGpBBU4GPbnpb4nhMeX8kJehgtsntYwxaqKjZ74aNLuO_kdhp81QwDs4r6ya27p-sDVB29AwqZ2cieVxCPuznmo2bE",
+      "keys": {
+        "p256dh": "BBspvB3Z5qk1Zz3Bl7ptFwNaswoMGiOng76zBGcuJQ-Yr4Omi6hXGy9hagNoHrsxjfgDivLe7KziEoRCSTh6668",
+        "auth": "k3MYazvFntTdwuU19x8WCg"
+      },
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1",
+      "createdAt": "2026-03-01T06:51:35.308Z",
+      "lastActiveAt": "2026-03-01T06:51:35.308Z"
+    }
+  ]
 }
