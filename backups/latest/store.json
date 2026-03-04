@@ -1454,6 +1454,26 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-w4q27o-1772620509869",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 324500,
+      "category": "OTHER",
+      "note": "3 bún đậu. Minh pháp, hồng bee, Trần Cường",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-20T10:35:09",
+      "timestamp": "2026-02-20T10:35:09",
+      "integrityPrevHash": "a7ca69011f8df01af0bf670c9e859a38651a066912bf0a81bfa46f3842885da6",
+      "integrityVersion": 1,
+      "integrityHash": "c19c143ecc71ca97a4375df3df3645f692326c93ee07260cfaf41e1fa2c4d646",
+      "integrityValid": true
+    },
+    {
       "id": "fin-z54md9-1772619638743",
       "userId": "user-ueguzh-1772213326608",
       "type": "NHAP",
@@ -1475,6 +1495,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-txvawz-1772620509869",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-w4q27o-1772620509869",
+      "createdAt": "2026-02-20T10:35:09",
+      "details": {
+        "type": "XUAT",
+        "amount": 324500,
+        "category": "OTHER",
+        "note": "3 bún đậu. Minh pháp, hồng bee, Trần Cường",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-vrmnyf-1772619638743",
       "domain": "finance",
