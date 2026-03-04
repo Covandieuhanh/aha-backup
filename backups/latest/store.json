@@ -1454,6 +1454,26 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-uuml0p-1772620562760",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 1000000,
+      "category": "OTHER",
+      "note": "Ship xe máy Airblade từ hà nội -> Biên hoà",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-21T10:36:02",
+      "timestamp": "2026-02-21T10:36:02",
+      "integrityPrevHash": "c19c143ecc71ca97a4375df3df3645f692326c93ee07260cfaf41e1fa2c4d646",
+      "integrityVersion": 1,
+      "integrityHash": "8554f0e4011a0bc203a3fa74b6ee63d2b8f748fbbbed0a8f9d34a9aa8f27c830",
+      "integrityValid": true
+    },
+    {
       "id": "fin-w4q27o-1772620509869",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1495,6 +1515,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-q5mwyi-1772620562760",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-uuml0p-1772620562760",
+      "createdAt": "2026-02-21T10:36:02",
+      "details": {
+        "type": "XUAT",
+        "amount": 1000000,
+        "category": "OTHER",
+        "note": "Ship xe máy Airblade từ hà nội -> Biên hoà",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-txvawz-1772620509869",
       "domain": "finance",
