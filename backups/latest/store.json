@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-vtn2vr-1772620946466",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 477000,
+      "category": "OTHER",
+      "note": "3 cốc giữ nhiệt. 3ace",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-21T10:42:26",
+      "timestamp": "2026-02-21T10:42:26",
+      "integrityPrevHash": "e1443a60a7225747f4b3dce543ecdb007957871603447a059e86af200b93a7fb",
+      "integrityVersion": 1,
+      "integrityHash": "1b692be8728fda8ab8f7c23dd30bae22517d84677a572a6fa3aea4101f779200",
+      "integrityValid": true
+    },
+    {
       "id": "fin-s8jjbc-1772620898239",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1593,6 +1616,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-gcaqba-1772620946466",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-vtn2vr-1772620946466",
+      "createdAt": "2026-02-21T10:42:26",
+      "details": {
+        "type": "XUAT",
+        "amount": 477000,
+        "category": "OTHER",
+        "note": "3 cốc giữ nhiệt. 3ace",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-huq65v-1772620898239",
       "domain": "finance",
