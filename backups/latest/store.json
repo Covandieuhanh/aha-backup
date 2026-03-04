@@ -1472,8 +1472,8 @@
       "createdAt": "2026-02-21T10:42:26",
       "timestamp": "2026-02-21T10:42:26",
       "integrityPrevHash": "e1443a60a7225747f4b3dce543ecdb007957871603447a059e86af200b93a7fb",
-      "integrityVersion": 1,
       "integrityHash": "1b692be8728fda8ab8f7c23dd30bae22517d84677a572a6fa3aea4101f779200",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1495,8 +1495,8 @@
       "createdAt": "2026-02-21T10:41:38",
       "timestamp": "2026-02-21T10:41:38",
       "integrityPrevHash": "dbca60a55f7efcaac6ca0155091b0c19b213e6b2520b01934997e19ed2a5bbde",
-      "integrityVersion": 1,
       "integrityHash": "e1443a60a7225747f4b3dce543ecdb007957871603447a059e86af200b93a7fb",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1518,8 +1518,8 @@
       "createdAt": "2026-02-21T10:41:38",
       "timestamp": "2026-02-21T10:41:38",
       "integrityPrevHash": "83752392490b94529e53ca5efa07a7a591eda4183daeb1e8acb70a74170f8b0f",
-      "integrityVersion": 1,
       "integrityHash": "dbca60a55f7efcaac6ca0155091b0c19b213e6b2520b01934997e19ed2a5bbde",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1615,7 +1615,67 @@
       "integrityValid": true
     }
   ],
+  "financeExpenseCategories": [
+    {
+      "code": "ADS",
+      "name": "Ads",
+      "active": true,
+      "createdBy": "system",
+      "created_by": "system",
+      "createdAt": "2026-03-04T15:31:31.161Z",
+      "timestamp": "2026-03-04T15:31:31.161Z",
+      "updatedBy": "",
+      "updatedAt": "",
+      "deletedBy": "",
+      "deletedAt": ""
+    },
+    {
+      "code": "OTHER",
+      "name": "Khác",
+      "active": true,
+      "createdBy": "system",
+      "created_by": "system",
+      "createdAt": "2026-03-04T15:31:31.161Z",
+      "timestamp": "2026-03-04T15:31:31.161Z",
+      "updatedBy": "",
+      "updatedAt": "",
+      "deletedBy": "",
+      "deletedAt": ""
+    },
+    {
+      "code": "OPERATIONS",
+      "name": "Vận hành",
+      "active": true,
+      "createdBy": "system",
+      "created_by": "system",
+      "createdAt": "2026-03-04T15:31:31.161Z",
+      "timestamp": "2026-03-04T15:31:31.161Z",
+      "updatedBy": "",
+      "updatedAt": "",
+      "deletedBy": "",
+      "deletedAt": ""
+    }
+  ],
+  "financeCategoryReclassLogs": [],
   "systemAuditLogs": [
+    {
+      "id": "audit-vrmnyf-1772619638743",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-admin-default",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-z54md9-1772619638743",
+      "createdAt": "2026-02-26T10:20:38",
+      "details": {
+        "type": "NHAP",
+        "amount": 10000000,
+        "category": "",
+        "note": "Huệ ck",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-gcaqba-1772620946466",
       "domain": "finance",
@@ -1650,24 +1710,6 @@
         "creditTransactionId": "fin-x9kx25-1772620898239",
         "amount": 600000,
         "note": "đổi ra tiền mặt để đưa Sunny mừng tuổi con thầy Kiên"
-      }
-    },
-    {
-      "id": "audit-vrmnyf-1772619638743",
-      "domain": "finance",
-      "action": "FINANCE_TRANSACTION_CREATED",
-      "actorId": "user-admin-default",
-      "walletUserId": "user-ueguzh-1772213326608",
-      "transactionId": "fin-z54md9-1772619638743",
-      "createdAt": "2026-02-26T10:20:38",
-      "details": {
-        "type": "NHAP",
-        "amount": 10000000,
-        "category": "",
-        "note": "Huệ ck",
-        "isAdjustment": false,
-        "adjustmentOf": "",
-        "hasReceiptImage": false
       }
     },
     {
