@@ -1566,6 +1566,33 @@
       },
       "passwordHash": "$2b$10$QHY60fu.OHpzWD5qYxHrKOwO1Ss0j0td.Ps1KWhhmsD7n7fYaE5Fu",
       "createdAt": "2026-02-27T17:34:06.874Z"
+    },
+    {
+      "id": "user-hx5mrz-1772591668084",
+      "fullName": "Mai",
+      "username": "0849149131",
+      "role": "member",
+      "permissions": {
+        "customers": false,
+        "customerEdit": false,
+        "products": false,
+        "productsEdit": false,
+        "productsDelete": false,
+        "visits": false,
+        "visitsEdit": false,
+        "visitsDelete": false,
+        "referrals": false,
+        "referralsEdit": false,
+        "referralsDelete": false,
+        "finance": false,
+        "reports": true,
+        "reportsAll": false,
+        "dataCleanup": false,
+        "backupData": false,
+        "changePassword": true
+      },
+      "passwordHash": "$2b$10$e5zbdUa4nWZHQkhyZASuqeQtERleWoQrlEVyeIGxOZJJwTaeWaN8K",
+      "createdAt": "2026-03-04T02:34:28.172Z"
     }
   ],
   "pushSubscriptions": [
