@@ -1669,7 +1669,7 @@
         "referralsEdit": false,
         "referralsDelete": false,
         "finance": true,
-        "financeFund": false,
+        "financeFund": true,
         "reports": true,
         "reportsAll": true,
         "dataCleanup": false,
