@@ -1452,6 +1452,8 @@
       "createdAt": "2026-03-01T05:47:50.998Z"
     }
   ],
+  "financeTransactions": [],
+  "systemAuditLogs": [],
   "users": [
     {
       "id": "user-admin-default",
@@ -1471,6 +1473,7 @@
         "referrals": true,
         "referralsEdit": true,
         "referralsDelete": true,
+        "finance": true,
         "reports": true,
         "reportsAll": true,
         "dataCleanup": true,
@@ -1498,6 +1501,7 @@
         "referrals": true,
         "referralsEdit": true,
         "referralsDelete": true,
+        "finance": false,
         "reports": true,
         "reportsAll": true,
         "dataCleanup": true,
@@ -1525,6 +1529,7 @@
         "referrals": false,
         "referralsEdit": false,
         "referralsDelete": false,
+        "finance": false,
         "reports": true,
         "reportsAll": true,
         "dataCleanup": false,
@@ -1552,6 +1557,7 @@
         "referrals": true,
         "referralsEdit": false,
         "referralsDelete": false,
+        "finance": false,
         "reports": true,
         "reportsAll": true,
         "dataCleanup": false,
