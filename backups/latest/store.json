@@ -1452,8 +1452,48 @@
       "createdAt": "2026-03-01T05:47:50.998Z"
     }
   ],
-  "financeTransactions": [],
-  "systemAuditLogs": [],
+  "financeTransactions": [
+    {
+      "id": "fin-z54md9-1772619638743",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "NHAP",
+      "amount": 10000000,
+      "category": "",
+      "note": "Huệ ck",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-admin-default",
+      "created_by": "user-admin-default",
+      "createdAt": "2026-02-26T10:20:38",
+      "timestamp": "2026-02-26T10:20:38",
+      "integrityPrevHash": "GENESIS",
+      "integrityVersion": 1,
+      "integrityHash": "a7ca69011f8df01af0bf670c9e859a38651a066912bf0a81bfa46f3842885da6",
+      "integrityValid": true
+    }
+  ],
+  "systemAuditLogs": [
+    {
+      "id": "audit-vrmnyf-1772619638743",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-admin-default",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-z54md9-1772619638743",
+      "createdAt": "2026-02-26T10:20:38",
+      "details": {
+        "type": "NHAP",
+        "amount": 10000000,
+        "category": "",
+        "note": "Huệ ck",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    }
+  ],
   "users": [
     {
       "id": "user-admin-default",
