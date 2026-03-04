@@ -1643,6 +1643,19 @@
       "deletedAt": ""
     },
     {
+      "code": "QU_3_ANH_CH_EM",
+      "name": "Quỹ 3 anh chị em",
+      "active": true,
+      "createdBy": "user-admin-default",
+      "created_by": "user-admin-default",
+      "createdAt": "2026-03-04T15:35:04.926Z",
+      "timestamp": "2026-03-04T15:35:04.926Z",
+      "updatedBy": "",
+      "updatedAt": "",
+      "deletedBy": "",
+      "deletedAt": ""
+    },
+    {
       "code": "OPERATIONS",
       "name": "Vận hành",
       "active": true,
@@ -1658,6 +1671,19 @@
   ],
   "financeCategoryReclassLogs": [],
   "systemAuditLogs": [
+    {
+      "id": "audit-ijbjwl-1772638504926",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_CREATED",
+      "actorId": "user-admin-default",
+      "walletUserId": "",
+      "transactionId": "",
+      "createdAt": "2026-03-04T15:35:04.926Z",
+      "details": {
+        "categoryCode": "QU_3_ANH_CH_EM",
+        "categoryName": "Quỹ 3 anh chị em"
+      }
+    },
     {
       "id": "audit-vrmnyf-1772619638743",
       "domain": "finance",
