@@ -1617,19 +1617,6 @@
   ],
   "financeExpenseCategories": [
     {
-      "code": "ADS",
-      "name": "Ads",
-      "active": true,
-      "createdBy": "system",
-      "created_by": "system",
-      "createdAt": "2026-03-04T15:31:31.161Z",
-      "timestamp": "2026-03-04T15:31:31.161Z",
-      "updatedBy": "",
-      "updatedAt": "",
-      "deletedBy": "",
-      "deletedAt": ""
-    },
-    {
       "code": "AHA_SHINE",
       "name": "Aha Shine",
       "active": true,
@@ -1680,6 +1667,19 @@
       "updatedAt": "",
       "deletedBy": "",
       "deletedAt": ""
+    },
+    {
+      "code": "ADS",
+      "name": "Ads",
+      "active": false,
+      "createdBy": "system",
+      "created_by": "system",
+      "createdAt": "2026-03-04T15:31:31.161Z",
+      "timestamp": "2026-03-04T15:31:31.161Z",
+      "updatedBy": "user-admin-default",
+      "updatedAt": "2026-03-05T02:13:57.348Z",
+      "deletedBy": "user-admin-default",
+      "deletedAt": "2026-03-05T02:13:57.348Z"
     }
   ],
   "financeCategoryReclassLogs": [
@@ -1707,6 +1707,19 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-4cq8fc-1772676837348",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_DELETED",
+      "actorId": "user-admin-default",
+      "walletUserId": "",
+      "transactionId": "",
+      "createdAt": "2026-03-05T02:13:57.348Z",
+      "details": {
+        "categoryCode": "ADS",
+        "categoryName": "Ads"
+      }
+    },
     {
       "id": "audit-duclbn-1772676828986",
       "domain": "finance",
