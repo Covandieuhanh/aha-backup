@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-rtvlk8-1772678712323",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 565000,
+      "category": "QU_3_ANH_CH_EM",
+      "note": "Sách. Minh pháp",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-25T02:45:12",
+      "timestamp": "2026-02-25T02:45:12",
+      "integrityPrevHash": "f8e3986de4aa867de0fcd02c7c85ffba7f3acfef7c55bd8b15fc4abb5f9ad16c",
+      "integrityVersion": 1,
+      "integrityHash": "b8f63a441a31dee3efadd42320f2e0c50be21a721f17bf3fefe86526775fe02a",
+      "integrityValid": true
+    },
+    {
       "id": "fin-1719is-1772678689760",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1913,6 +1936,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-cqaxqr-1772678712323",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-rtvlk8-1772678712323",
+      "createdAt": "2026-02-25T02:45:12",
+      "details": {
+        "type": "XUAT",
+        "amount": 565000,
+        "category": "QU_3_ANH_CH_EM",
+        "note": "Sách. Minh pháp",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-qgcb49-1772678689760",
       "domain": "finance",
