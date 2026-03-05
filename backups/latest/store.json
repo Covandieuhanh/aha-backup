@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-ukzl6r-1772678589335",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 30000,
+      "category": "QU_3_ANH_CH_EM",
+      "note": "Bánh mỳ. Trần Cường",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-24T02:43:09",
+      "timestamp": "2026-02-24T02:43:09",
+      "integrityPrevHash": "5de6e34d37d0da051c4636ae7e0997c6deed345618e254524debd5b633eebce3",
+      "integrityVersion": 1,
+      "integrityHash": "08fba6a0d8ca6c8127bce7be3146e122d37440e8d7c913ab127de010ec975b19",
+      "integrityValid": true
+    },
+    {
       "id": "fin-q7cdkd-1772678482238",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1821,6 +1844,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-hrapo1-1772678589335",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-ukzl6r-1772678589335",
+      "createdAt": "2026-02-24T02:43:09",
+      "details": {
+        "type": "XUAT",
+        "amount": 30000,
+        "category": "QU_3_ANH_CH_EM",
+        "note": "Bánh mỳ. Trần Cường",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-c3gghl-1772678482238",
       "domain": "finance",
