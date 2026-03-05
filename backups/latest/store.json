@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-6mus6j-1772679231742",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 158000,
+      "category": "QU_3_ANH_CH_EM",
+      "note": "ổ cắm điện wifi phòng 5. Trần Cường",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-27T02:53:51",
+      "timestamp": "2026-02-27T02:53:51",
+      "integrityPrevHash": "db355cfc9326cb2bc8b4a07c6192c434fc4619f57b06661a1cfdbf0af94d5d2f",
+      "integrityVersion": 1,
+      "integrityHash": "502b7e39a8523d443fe0927f781e71b04ffe46f7a744f961fd7bf2e7a3edefca",
+      "integrityValid": true
+    },
+    {
       "id": "fin-9jdt7j-1772679197826",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -2005,6 +2028,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-jo8u9c-1772679231742",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-6mus6j-1772679231742",
+      "createdAt": "2026-02-27T02:53:51",
+      "details": {
+        "type": "XUAT",
+        "amount": 158000,
+        "category": "QU_3_ANH_CH_EM",
+        "note": "ổ cắm điện wifi phòng 5. Trần Cường",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-chvaen-1772679197826",
       "domain": "finance",
