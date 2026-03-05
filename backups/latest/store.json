@@ -1472,8 +1472,8 @@
       "createdAt": "2026-03-04T02:58:25",
       "timestamp": "2026-03-04T02:58:25",
       "integrityPrevHash": "56a47f352ec7fc10fab3b8a7b6f7022ef4e5ef2199bb3be5ae72f7fcc142b8b5",
-      "integrityVersion": 1,
       "integrityHash": "9595b6e84d879d344c9a54add4612347a4b9357bdb377e09bb7fa6dca15fdc8e",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1495,8 +1495,8 @@
       "createdAt": "2026-03-04T02:58:25",
       "timestamp": "2026-03-04T02:58:25",
       "integrityPrevHash": "6d386cb06149fc07cbdacb8070357165d9217e4a0f9b695fa024f557e716cf8f",
-      "integrityVersion": 1,
       "integrityHash": "56a47f352ec7fc10fab3b8a7b6f7022ef4e5ef2199bb3be5ae72f7fcc142b8b5",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1518,8 +1518,8 @@
       "createdAt": "2026-03-04T02:57:58",
       "timestamp": "2026-03-04T02:57:58",
       "integrityPrevHash": "cd91ce43d8a4525bec3c62f67d8ffc603159865304f955c9f25b842f5ecee5f3",
-      "integrityVersion": 1,
       "integrityHash": "6d386cb06149fc07cbdacb8070357165d9217e4a0f9b695fa024f557e716cf8f",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1541,8 +1541,8 @@
       "createdAt": "2026-02-27T02:55:39",
       "timestamp": "2026-02-27T02:55:39",
       "integrityPrevHash": "17f5f39905d6e999a4badf72f53c5362b4fbbc878c4f6d8cd1eb06f3d57b808a",
-      "integrityVersion": 1,
       "integrityHash": "cd91ce43d8a4525bec3c62f67d8ffc603159865304f955c9f25b842f5ecee5f3",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1564,8 +1564,8 @@
       "createdAt": "2026-02-27T02:55:11",
       "timestamp": "2026-02-27T02:55:11",
       "integrityPrevHash": "0300ddc97fab0d781aaa130781dd8df59e861d9d38aafb2c3a8e687f36880e8b",
-      "integrityVersion": 1,
       "integrityHash": "17f5f39905d6e999a4badf72f53c5362b4fbbc878c4f6d8cd1eb06f3d57b808a",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1587,8 +1587,8 @@
       "createdAt": "2026-02-27T02:54:46",
       "timestamp": "2026-02-27T02:54:46",
       "integrityPrevHash": "502b7e39a8523d443fe0927f781e71b04ffe46f7a744f961fd7bf2e7a3edefca",
-      "integrityVersion": 1,
       "integrityHash": "0300ddc97fab0d781aaa130781dd8df59e861d9d38aafb2c3a8e687f36880e8b",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1610,8 +1610,8 @@
       "createdAt": "2026-02-27T02:53:51",
       "timestamp": "2026-02-27T02:53:51",
       "integrityPrevHash": "db355cfc9326cb2bc8b4a07c6192c434fc4619f57b06661a1cfdbf0af94d5d2f",
-      "integrityVersion": 1,
       "integrityHash": "502b7e39a8523d443fe0927f781e71b04ffe46f7a744f961fd7bf2e7a3edefca",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1633,8 +1633,8 @@
       "createdAt": "2026-02-27T02:53:17",
       "timestamp": "2026-02-27T02:53:17",
       "integrityPrevHash": "c3d6aecd6d1be810d4a01a70a3a2d21ad11cef42fad60b8169644c5f7c3dd8d5",
-      "integrityVersion": 1,
       "integrityHash": "db355cfc9326cb2bc8b4a07c6192c434fc4619f57b06661a1cfdbf0af94d5d2f",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1656,8 +1656,8 @@
       "createdAt": "2026-02-27T02:53:17",
       "timestamp": "2026-02-27T02:53:17",
       "integrityPrevHash": "88577a2994ddc85d02f4fe0e1648cc481cec9bd2dd527d99d1dd3d8b7c6f56b6",
-      "integrityVersion": 1,
       "integrityHash": "c3d6aecd6d1be810d4a01a70a3a2d21ad11cef42fad60b8169644c5f7c3dd8d5",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1679,8 +1679,8 @@
       "createdAt": "2026-02-25T02:51:20",
       "timestamp": "2026-02-25T02:51:20",
       "integrityPrevHash": "b8f63a441a31dee3efadd42320f2e0c50be21a721f17bf3fefe86526775fe02a",
-      "integrityVersion": 1,
       "integrityHash": "88577a2994ddc85d02f4fe0e1648cc481cec9bd2dd527d99d1dd3d8b7c6f56b6",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1702,8 +1702,8 @@
       "createdAt": "2026-02-25T02:45:12",
       "timestamp": "2026-02-25T02:45:12",
       "integrityPrevHash": "f8e3986de4aa867de0fcd02c7c85ffba7f3acfef7c55bd8b15fc4abb5f9ad16c",
-      "integrityVersion": 1,
       "integrityHash": "b8f63a441a31dee3efadd42320f2e0c50be21a721f17bf3fefe86526775fe02a",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1725,8 +1725,8 @@
       "createdAt": "2026-02-25T02:44:49",
       "timestamp": "2026-02-25T02:44:49",
       "integrityPrevHash": "d25dbaa66a941648ab7b2343fa883f9c5ae56e75c9054a49742d6b73b113e343",
-      "integrityVersion": 1,
       "integrityHash": "f8e3986de4aa867de0fcd02c7c85ffba7f3acfef7c55bd8b15fc4abb5f9ad16c",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1748,8 +1748,8 @@
       "createdAt": "2026-03-25T02:44:22",
       "timestamp": "2026-03-25T02:44:22",
       "integrityPrevHash": "b3f25e6ffad74c54864a1595d6833e07637c487ff120ffef34ee67bf2a043358",
-      "integrityVersion": 1,
       "integrityHash": "d25dbaa66a941648ab7b2343fa883f9c5ae56e75c9054a49742d6b73b113e343",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1771,8 +1771,8 @@
       "createdAt": "2026-02-24T02:43:42",
       "timestamp": "2026-02-24T02:43:42",
       "integrityPrevHash": "08fba6a0d8ca6c8127bce7be3146e122d37440e8d7c913ab127de010ec975b19",
-      "integrityVersion": 1,
       "integrityHash": "b3f25e6ffad74c54864a1595d6833e07637c487ff120ffef34ee67bf2a043358",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1794,8 +1794,8 @@
       "createdAt": "2026-02-24T02:43:09",
       "timestamp": "2026-02-24T02:43:09",
       "integrityPrevHash": "5de6e34d37d0da051c4636ae7e0997c6deed345618e254524debd5b633eebce3",
-      "integrityVersion": 1,
       "integrityHash": "08fba6a0d8ca6c8127bce7be3146e122d37440e8d7c913ab127de010ec975b19",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1817,8 +1817,8 @@
       "createdAt": "2026-02-23T02:41:22",
       "timestamp": "2026-02-23T02:41:22",
       "integrityPrevHash": "ce2ea30f675632284de67a9c180f89665f29a228f43be291866a64b5e2df1878",
-      "integrityVersion": 1,
       "integrityHash": "5de6e34d37d0da051c4636ae7e0997c6deed345618e254524debd5b633eebce3",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1840,8 +1840,8 @@
       "createdAt": "2026-02-23T02:40:58",
       "timestamp": "2026-02-23T02:40:58",
       "integrityPrevHash": "db3571d4ff16a0360d8a99790a143d6a5ff434fd31406b01b1c256747f8b34d2",
-      "integrityVersion": 1,
       "integrityHash": "ce2ea30f675632284de67a9c180f89665f29a228f43be291866a64b5e2df1878",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1863,8 +1863,8 @@
       "createdAt": "2026-02-22T02:40:31",
       "timestamp": "2026-02-22T02:40:31",
       "integrityPrevHash": "5cee637ba6579676eb2c67c24a5549b153b445f080982ee250c8ccaec18bb7aa",
-      "integrityVersion": 1,
       "integrityHash": "db3571d4ff16a0360d8a99790a143d6a5ff434fd31406b01b1c256747f8b34d2",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -1886,8 +1886,8 @@
       "createdAt": "2026-02-22T02:40:03",
       "timestamp": "2026-02-22T02:40:03",
       "integrityPrevHash": "1b692be8728fda8ab8f7c23dd30bae22517d84677a572a6fa3aea4101f779200",
-      "integrityVersion": 1,
       "integrityHash": "5cee637ba6579676eb2c67c24a5549b153b445f080982ee250c8ccaec18bb7aa",
+      "integrityVersion": 1,
       "integrityValid": true
     },
     {
@@ -2167,6 +2167,119 @@
   ],
   "systemAuditLogs": [
     {
+      "id": "audit-xrf32x-1772678662106",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-x8wa32-1772678662106",
+      "createdAt": "2026-03-25T02:44:22",
+      "details": {
+        "type": "XUAT",
+        "amount": 50000,
+        "category": "AHA_SHINE",
+        "note": "10 chai nước suối",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
+    {
+      "id": "audit-yv9mwd-1772677376307",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_RECLASSIFIED",
+      "actorId": "user-admin-default",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-sxole4-1772620629945",
+      "createdAt": "2026-03-05T02:22:56.307Z",
+      "details": {
+        "fromCategory": "OTHER",
+        "toCategory": "AHA_SHINE",
+        "reason": "nhập vào aha shine"
+      }
+    },
+    {
+      "id": "audit-vv0t3f-1772676875750",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_RECLASSIFIED",
+      "actorId": "user-admin-default",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-uuml0p-1772620562760",
+      "createdAt": "2026-03-05T02:14:35.750Z",
+      "details": {
+        "fromCategory": "OTHER",
+        "toCategory": "QU_3_ANH_CH_EM",
+        "reason": "nhập vào quỹ"
+      }
+    },
+    {
+      "id": "audit-4cq8fc-1772676837348",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_DELETED",
+      "actorId": "user-admin-default",
+      "walletUserId": "",
+      "transactionId": "",
+      "createdAt": "2026-03-05T02:13:57.348Z",
+      "details": {
+        "categoryCode": "ADS",
+        "categoryName": "Ads"
+      }
+    },
+    {
+      "id": "audit-duclbn-1772676828986",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_CREATED",
+      "actorId": "user-admin-default",
+      "walletUserId": "",
+      "transactionId": "",
+      "createdAt": "2026-03-05T02:13:48.986Z",
+      "details": {
+        "categoryCode": "AHA_SHINE",
+        "categoryName": "Aha Shine"
+      }
+    },
+    {
+      "id": "audit-twgnnc-1772676797186",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_RECLASSIFIED",
+      "actorId": "user-admin-default",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-w4q27o-1772620509869",
+      "createdAt": "2026-03-05T02:13:17.186Z",
+      "details": {
+        "fromCategory": "OTHER",
+        "toCategory": "QU_3_ANH_CH_EM",
+        "reason": "nhập vào quỹ"
+      }
+    },
+    {
+      "id": "audit-zd33dc-1772638794460",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_RECLASSIFIED",
+      "actorId": "user-admin-default",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-vtn2vr-1772620946466",
+      "createdAt": "2026-03-04T15:39:54.460Z",
+      "details": {
+        "fromCategory": "OTHER",
+        "toCategory": "QU_3_ANH_CH_EM",
+        "reason": "Quỹ 3ace"
+      }
+    },
+    {
+      "id": "audit-ijbjwl-1772638504926",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_CREATED",
+      "actorId": "user-admin-default",
+      "walletUserId": "",
+      "transactionId": "",
+      "createdAt": "2026-03-04T15:35:04.926Z",
+      "details": {
+        "categoryCode": "QU_3_ANH_CH_EM",
+        "categoryName": "Quỹ 3 anh chị em"
+      }
+    },
+    {
       "id": "audit-j4efns-1772679505273",
       "domain": "finance",
       "action": "FINANCE_INTERNAL_TRANSFER_CREATED",
@@ -2293,6 +2406,24 @@
       }
     },
     {
+      "id": "audit-vrmnyf-1772619638743",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-admin-default",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-z54md9-1772619638743",
+      "createdAt": "2026-02-26T10:20:38",
+      "details": {
+        "type": "NHAP",
+        "amount": 10000000,
+        "category": "",
+        "note": "Huệ ck",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
+    {
       "id": "audit-smt8bg-1772679080271",
       "domain": "finance",
       "action": "FINANCE_TRANSACTION_CREATED",
@@ -2341,24 +2472,6 @@
         "amount": 195000,
         "category": "AHA_SHINE",
         "note": "Nước thắp hương lễ",
-        "isAdjustment": false,
-        "adjustmentOf": "",
-        "hasReceiptImage": false
-      }
-    },
-    {
-      "id": "audit-xrf32x-1772678662106",
-      "domain": "finance",
-      "action": "FINANCE_TRANSACTION_CREATED",
-      "actorId": "user-ueguzh-1772213326608",
-      "walletUserId": "user-ueguzh-1772213326608",
-      "transactionId": "fin-x8wa32-1772678662106",
-      "createdAt": "2026-03-25T02:44:22",
-      "details": {
-        "type": "XUAT",
-        "amount": 50000,
-        "category": "AHA_SHINE",
-        "note": "10 chai nước suối",
         "isAdjustment": false,
         "adjustmentOf": "",
         "hasReceiptImage": false
@@ -2467,119 +2580,6 @@
         "amount": 35000,
         "category": "QU_3_ANH_CH_EM",
         "note": "Bánh mỳ. Trần Cường",
-        "isAdjustment": false,
-        "adjustmentOf": "",
-        "hasReceiptImage": false
-      }
-    },
-    {
-      "id": "audit-yv9mwd-1772677376307",
-      "domain": "finance",
-      "action": "FINANCE_CATEGORY_RECLASSIFIED",
-      "actorId": "user-admin-default",
-      "walletUserId": "user-ueguzh-1772213326608",
-      "transactionId": "fin-sxole4-1772620629945",
-      "createdAt": "2026-03-05T02:22:56.307Z",
-      "details": {
-        "fromCategory": "OTHER",
-        "toCategory": "AHA_SHINE",
-        "reason": "nhập vào aha shine"
-      }
-    },
-    {
-      "id": "audit-vv0t3f-1772676875750",
-      "domain": "finance",
-      "action": "FINANCE_CATEGORY_RECLASSIFIED",
-      "actorId": "user-admin-default",
-      "walletUserId": "user-ueguzh-1772213326608",
-      "transactionId": "fin-uuml0p-1772620562760",
-      "createdAt": "2026-03-05T02:14:35.750Z",
-      "details": {
-        "fromCategory": "OTHER",
-        "toCategory": "QU_3_ANH_CH_EM",
-        "reason": "nhập vào quỹ"
-      }
-    },
-    {
-      "id": "audit-4cq8fc-1772676837348",
-      "domain": "finance",
-      "action": "FINANCE_CATEGORY_DELETED",
-      "actorId": "user-admin-default",
-      "walletUserId": "",
-      "transactionId": "",
-      "createdAt": "2026-03-05T02:13:57.348Z",
-      "details": {
-        "categoryCode": "ADS",
-        "categoryName": "Ads"
-      }
-    },
-    {
-      "id": "audit-duclbn-1772676828986",
-      "domain": "finance",
-      "action": "FINANCE_CATEGORY_CREATED",
-      "actorId": "user-admin-default",
-      "walletUserId": "",
-      "transactionId": "",
-      "createdAt": "2026-03-05T02:13:48.986Z",
-      "details": {
-        "categoryCode": "AHA_SHINE",
-        "categoryName": "Aha Shine"
-      }
-    },
-    {
-      "id": "audit-twgnnc-1772676797186",
-      "domain": "finance",
-      "action": "FINANCE_CATEGORY_RECLASSIFIED",
-      "actorId": "user-admin-default",
-      "walletUserId": "user-ueguzh-1772213326608",
-      "transactionId": "fin-w4q27o-1772620509869",
-      "createdAt": "2026-03-05T02:13:17.186Z",
-      "details": {
-        "fromCategory": "OTHER",
-        "toCategory": "QU_3_ANH_CH_EM",
-        "reason": "nhập vào quỹ"
-      }
-    },
-    {
-      "id": "audit-zd33dc-1772638794460",
-      "domain": "finance",
-      "action": "FINANCE_CATEGORY_RECLASSIFIED",
-      "actorId": "user-admin-default",
-      "walletUserId": "user-ueguzh-1772213326608",
-      "transactionId": "fin-vtn2vr-1772620946466",
-      "createdAt": "2026-03-04T15:39:54.460Z",
-      "details": {
-        "fromCategory": "OTHER",
-        "toCategory": "QU_3_ANH_CH_EM",
-        "reason": "Quỹ 3ace"
-      }
-    },
-    {
-      "id": "audit-ijbjwl-1772638504926",
-      "domain": "finance",
-      "action": "FINANCE_CATEGORY_CREATED",
-      "actorId": "user-admin-default",
-      "walletUserId": "",
-      "transactionId": "",
-      "createdAt": "2026-03-04T15:35:04.926Z",
-      "details": {
-        "categoryCode": "QU_3_ANH_CH_EM",
-        "categoryName": "Quỹ 3 anh chị em"
-      }
-    },
-    {
-      "id": "audit-vrmnyf-1772619638743",
-      "domain": "finance",
-      "action": "FINANCE_TRANSACTION_CREATED",
-      "actorId": "user-admin-default",
-      "walletUserId": "user-ueguzh-1772213326608",
-      "transactionId": "fin-z54md9-1772619638743",
-      "createdAt": "2026-02-26T10:20:38",
-      "details": {
-        "type": "NHAP",
-        "amount": 10000000,
-        "category": "",
-        "note": "Huệ ck",
         "isAdjustment": false,
         "adjustmentOf": "",
         "hasReceiptImage": false
@@ -2824,9 +2824,10 @@
     },
     {
       "id": "user-yegmky-1772679153572",
-      "fullName": "Kiệt",
       "username": "0941226395",
+      "fullName": "Kiệt",
       "role": "member",
+      "locked": false,
       "permissions": {
         "customers": false,
         "customerEdit": false,
