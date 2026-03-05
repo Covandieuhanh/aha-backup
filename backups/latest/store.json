@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-q7cdkd-1772678482238",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 64000,
+      "category": "QU_3_ANH_CH_EM",
+      "note": "Kẹo ngậm họng. Sunny",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-23T02:41:22",
+      "timestamp": "2026-02-23T02:41:22",
+      "integrityPrevHash": "ce2ea30f675632284de67a9c180f89665f29a228f43be291866a64b5e2df1878",
+      "integrityVersion": 1,
+      "integrityHash": "5de6e34d37d0da051c4636ae7e0997c6deed345618e254524debd5b633eebce3",
+      "integrityValid": true
+    },
+    {
       "id": "fin-sg7bey-1772678458056",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1798,6 +1821,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-c3gghl-1772678482238",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-q7cdkd-1772678482238",
+      "createdAt": "2026-02-23T02:41:22",
+      "details": {
+        "type": "XUAT",
+        "amount": 64000,
+        "category": "QU_3_ANH_CH_EM",
+        "note": "Kẹo ngậm họng. Sunny",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-7ckcb3-1772678458056",
       "domain": "finance",
