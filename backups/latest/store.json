@@ -1454,6 +1454,52 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-7py021-1772679505273",
+      "userId": "user-admin-default",
+      "type": "XUAT",
+      "amount": 15000000,
+      "category": "",
+      "note": "ck",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "ftr-duna8t-1772679505273",
+      "transferRole": "OUT",
+      "transferCounterpartyUserId": "user-ueguzh-1772213326608",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-admin-default",
+      "created_by": "user-admin-default",
+      "createdAt": "2026-03-04T02:58:25",
+      "timestamp": "2026-03-04T02:58:25",
+      "integrityPrevHash": "56a47f352ec7fc10fab3b8a7b6f7022ef4e5ef2199bb3be5ae72f7fcc142b8b5",
+      "integrityVersion": 1,
+      "integrityHash": "9595b6e84d879d344c9a54add4612347a4b9357bdb377e09bb7fa6dca15fdc8e",
+      "integrityValid": true
+    },
+    {
+      "id": "fin-pmedok-1772679505273",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "NHAP",
+      "amount": 15000000,
+      "category": "",
+      "note": "ck",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "ftr-duna8t-1772679505273",
+      "transferRole": "IN",
+      "transferCounterpartyUserId": "user-admin-default",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-admin-default",
+      "created_by": "user-admin-default",
+      "createdAt": "2026-03-04T02:58:25",
+      "timestamp": "2026-03-04T02:58:25",
+      "integrityPrevHash": "6d386cb06149fc07cbdacb8070357165d9217e4a0f9b695fa024f557e716cf8f",
+      "integrityVersion": 1,
+      "integrityHash": "56a47f352ec7fc10fab3b8a7b6f7022ef4e5ef2199bb3be5ae72f7fcc142b8b5",
+      "integrityValid": true
+    },
+    {
       "id": "fin-kaa1sg-1772679478323",
       "userId": "user-admin-default",
       "type": "NHAP",
@@ -2120,6 +2166,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-j4efns-1772679505273",
+      "domain": "finance",
+      "action": "FINANCE_INTERNAL_TRANSFER_CREATED",
+      "actorId": "user-admin-default",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-7py021-1772679505273",
+      "createdAt": "2026-03-04T02:58:25",
+      "details": {
+        "transferId": "ftr-duna8t-1772679505273",
+        "senderUserId": "user-admin-default",
+        "receiverUserId": "user-ueguzh-1772213326608",
+        "debitTransactionId": "fin-7py021-1772679505273",
+        "creditTransactionId": "fin-pmedok-1772679505273",
+        "amount": 15000000,
+        "note": "ck"
+      }
+    },
     {
       "id": "audit-82b9z4-1772679478323",
       "domain": "finance",
