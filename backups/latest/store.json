@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-kaa1sg-1772679478323",
+      "userId": "user-admin-default",
+      "type": "NHAP",
+      "amount": 15000000,
+      "category": "",
+      "note": "Huệ ck",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-admin-default",
+      "created_by": "user-admin-default",
+      "createdAt": "2026-03-04T02:57:58",
+      "timestamp": "2026-03-04T02:57:58",
+      "integrityPrevHash": "cd91ce43d8a4525bec3c62f67d8ffc603159865304f955c9f25b842f5ecee5f3",
+      "integrityVersion": 1,
+      "integrityHash": "6d386cb06149fc07cbdacb8070357165d9217e4a0f9b695fa024f557e716cf8f",
+      "integrityValid": true
+    },
+    {
       "id": "fin-puw6mx-1772679339106",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -2097,6 +2120,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-82b9z4-1772679478323",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-admin-default",
+      "walletUserId": "user-admin-default",
+      "transactionId": "fin-kaa1sg-1772679478323",
+      "createdAt": "2026-03-04T02:57:58",
+      "details": {
+        "type": "NHAP",
+        "amount": 15000000,
+        "category": "",
+        "note": "Huệ ck",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-qovm40-1772679339106",
       "domain": "finance",
