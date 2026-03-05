@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-1719is-1772678689760",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 195000,
+      "category": "AHA_SHINE",
+      "note": "Nước thắp hương lễ",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-25T02:44:49",
+      "timestamp": "2026-02-25T02:44:49",
+      "integrityPrevHash": "d25dbaa66a941648ab7b2343fa883f9c5ae56e75c9054a49742d6b73b113e343",
+      "integrityVersion": 1,
+      "integrityHash": "f8e3986de4aa867de0fcd02c7c85ffba7f3acfef7c55bd8b15fc4abb5f9ad16c",
+      "integrityValid": true
+    },
+    {
       "id": "fin-x8wa32-1772678662106",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1890,6 +1913,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-qgcb49-1772678689760",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-1719is-1772678689760",
+      "createdAt": "2026-02-25T02:44:49",
+      "details": {
+        "type": "XUAT",
+        "amount": 195000,
+        "category": "AHA_SHINE",
+        "note": "Nước thắp hương lễ",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-xrf32x-1772678662106",
       "domain": "finance",
