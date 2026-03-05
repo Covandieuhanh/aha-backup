@@ -1454,6 +1454,52 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-9jdt7j-1772679197826",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 1000000,
+      "category": "",
+      "note": "Cấp chi phí aha shine",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "ftr-4ii3k4-1772679197826",
+      "transferRole": "OUT",
+      "transferCounterpartyUserId": "user-yegmky-1772679153572",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-27T02:53:17",
+      "timestamp": "2026-02-27T02:53:17",
+      "integrityPrevHash": "c3d6aecd6d1be810d4a01a70a3a2d21ad11cef42fad60b8169644c5f7c3dd8d5",
+      "integrityVersion": 1,
+      "integrityHash": "db355cfc9326cb2bc8b4a07c6192c434fc4619f57b06661a1cfdbf0af94d5d2f",
+      "integrityValid": true
+    },
+    {
+      "id": "fin-0f6qrm-1772679197826",
+      "userId": "user-yegmky-1772679153572",
+      "type": "NHAP",
+      "amount": 1000000,
+      "category": "",
+      "note": "Cấp chi phí aha shine",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "ftr-4ii3k4-1772679197826",
+      "transferRole": "IN",
+      "transferCounterpartyUserId": "user-ueguzh-1772213326608",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-27T02:53:17",
+      "timestamp": "2026-02-27T02:53:17",
+      "integrityPrevHash": "88577a2994ddc85d02f4fe0e1648cc481cec9bd2dd527d99d1dd3d8b7c6f56b6",
+      "integrityVersion": 1,
+      "integrityHash": "c3d6aecd6d1be810d4a01a70a3a2d21ad11cef42fad60b8169644c5f7c3dd8d5",
+      "integrityValid": true
+    },
+    {
       "id": "fin-bdz013-1772679080271",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1959,6 +2005,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-chvaen-1772679197826",
+      "domain": "finance",
+      "action": "FINANCE_INTERNAL_TRANSFER_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-yegmky-1772679153572",
+      "transactionId": "fin-9jdt7j-1772679197826",
+      "createdAt": "2026-02-27T02:53:17",
+      "details": {
+        "transferId": "ftr-4ii3k4-1772679197826",
+        "senderUserId": "user-ueguzh-1772213326608",
+        "receiverUserId": "user-yegmky-1772679153572",
+        "debitTransactionId": "fin-9jdt7j-1772679197826",
+        "creditTransactionId": "fin-0f6qrm-1772679197826",
+        "amount": 1000000,
+        "note": "Cấp chi phí aha shine"
+      }
+    },
     {
       "id": "audit-smt8bg-1772679080271",
       "domain": "finance",
