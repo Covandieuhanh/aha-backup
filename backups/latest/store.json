@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-wynbf1-1772679286521",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 270000,
+      "category": "OPERATIONS",
+      "note": "Mua 10 đô cho ví usdt finser",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-27T02:54:46",
+      "timestamp": "2026-02-27T02:54:46",
+      "integrityPrevHash": "502b7e39a8523d443fe0927f781e71b04ffe46f7a744f961fd7bf2e7a3edefca",
+      "integrityVersion": 1,
+      "integrityHash": "0300ddc97fab0d781aaa130781dd8df59e861d9d38aafb2c3a8e687f36880e8b",
+      "integrityValid": true
+    },
+    {
       "id": "fin-6mus6j-1772679231742",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -2028,6 +2051,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-c8ixrs-1772679286521",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-wynbf1-1772679286521",
+      "createdAt": "2026-02-27T02:54:46",
+      "details": {
+        "type": "XUAT",
+        "amount": 270000,
+        "category": "OPERATIONS",
+        "note": "Mua 10 đô cho ví usdt finser",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-jo8u9c-1772679231742",
       "domain": "finance",
