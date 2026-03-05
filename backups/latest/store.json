@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-bdz013-1772679080271",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 271000,
+      "category": "OTHER",
+      "note": "Mua gói gì đó 10 đô",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-25T02:51:20",
+      "timestamp": "2026-02-25T02:51:20",
+      "integrityPrevHash": "b8f63a441a31dee3efadd42320f2e0c50be21a721f17bf3fefe86526775fe02a",
+      "integrityVersion": 1,
+      "integrityHash": "88577a2994ddc85d02f4fe0e1648cc481cec9bd2dd527d99d1dd3d8b7c6f56b6",
+      "integrityValid": true
+    },
+    {
       "id": "fin-rtvlk8-1772678712323",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1936,6 +1959,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-smt8bg-1772679080271",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-bdz013-1772679080271",
+      "createdAt": "2026-02-25T02:51:20",
+      "details": {
+        "type": "XUAT",
+        "amount": 271000,
+        "category": "OTHER",
+        "note": "Mua gói gì đó 10 đô",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-cqaxqr-1772678712323",
       "domain": "finance",
