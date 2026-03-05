@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-2zofxq-1772678622126",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 44000,
+      "category": "QU_3_ANH_CH_EM",
+      "note": "Mua nước uống bên thầy Kiên",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-24T02:43:42",
+      "timestamp": "2026-02-24T02:43:42",
+      "integrityPrevHash": "08fba6a0d8ca6c8127bce7be3146e122d37440e8d7c913ab127de010ec975b19",
+      "integrityVersion": 1,
+      "integrityHash": "b3f25e6ffad74c54864a1595d6833e07637c487ff120ffef34ee67bf2a043358",
+      "integrityValid": true
+    },
+    {
       "id": "fin-ukzl6r-1772678589335",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1844,6 +1867,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-9lhiue-1772678622126",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-2zofxq-1772678622126",
+      "createdAt": "2026-02-24T02:43:42",
+      "details": {
+        "type": "XUAT",
+        "amount": 44000,
+        "category": "QU_3_ANH_CH_EM",
+        "note": "Mua nước uống bên thầy Kiên",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-hrapo1-1772678589335",
       "domain": "finance",
