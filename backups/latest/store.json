@@ -1671,6 +1671,17 @@
   ],
   "financeCategoryReclassLogs": [
     {
+      "id": "frc-xc1mzl-1772676797186",
+      "transactionId": "fin-w4q27o-1772620509869",
+      "fromCategory": "OTHER",
+      "toCategory": "QU_3_ANH_CH_EM",
+      "reason": "nhập vào quỹ",
+      "createdBy": "user-admin-default",
+      "created_by": "user-admin-default",
+      "createdAt": "2026-03-05T02:13:17.186Z",
+      "timestamp": "2026-03-05T02:13:17.186Z"
+    },
+    {
       "id": "frc-62in8f-1772638794460",
       "transactionId": "fin-vtn2vr-1772620946466",
       "fromCategory": "OTHER",
@@ -1683,6 +1694,20 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-twgnnc-1772676797186",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_RECLASSIFIED",
+      "actorId": "user-admin-default",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-w4q27o-1772620509869",
+      "createdAt": "2026-03-05T02:13:17.186Z",
+      "details": {
+        "fromCategory": "OTHER",
+        "toCategory": "QU_3_ANH_CH_EM",
+        "reason": "nhập vào quỹ"
+      }
+    },
     {
       "id": "audit-zd33dc-1772638794460",
       "domain": "finance",
