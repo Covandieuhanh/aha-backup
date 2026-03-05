@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-bclbpp-1772678431809",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 80000,
+      "category": "QU_3_ANH_CH_EM",
+      "note": "10 bịch sữa",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-22T02:40:31",
+      "timestamp": "2026-02-22T02:40:31",
+      "integrityPrevHash": "5cee637ba6579676eb2c67c24a5549b153b445f080982ee250c8ccaec18bb7aa",
+      "integrityVersion": 1,
+      "integrityHash": "db3571d4ff16a0360d8a99790a143d6a5ff434fd31406b01b1c256747f8b34d2",
+      "integrityValid": true
+    },
+    {
       "id": "fin-aditb5-1772678403905",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1752,6 +1775,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-293y61-1772678431809",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-bclbpp-1772678431809",
+      "createdAt": "2026-02-22T02:40:31",
+      "details": {
+        "type": "XUAT",
+        "amount": 80000,
+        "category": "QU_3_ANH_CH_EM",
+        "note": "10 bịch sữa",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-aadhdo-1772678403905",
       "domain": "finance",
