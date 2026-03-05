@@ -1630,6 +1630,19 @@
       "deletedAt": ""
     },
     {
+      "code": "AHA_SHINE",
+      "name": "Aha Shine",
+      "active": true,
+      "createdBy": "user-admin-default",
+      "created_by": "user-admin-default",
+      "createdAt": "2026-03-05T02:13:48.986Z",
+      "timestamp": "2026-03-05T02:13:48.986Z",
+      "updatedBy": "",
+      "updatedAt": "",
+      "deletedBy": "",
+      "deletedAt": ""
+    },
+    {
       "code": "OTHER",
       "name": "Khác",
       "active": true,
@@ -1694,6 +1707,19 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-duclbn-1772676828986",
+      "domain": "finance",
+      "action": "FINANCE_CATEGORY_CREATED",
+      "actorId": "user-admin-default",
+      "walletUserId": "",
+      "transactionId": "",
+      "createdAt": "2026-03-05T02:13:48.986Z",
+      "details": {
+        "categoryCode": "AHA_SHINE",
+        "categoryName": "Aha Shine"
+      }
+    },
     {
       "id": "audit-twgnnc-1772676797186",
       "domain": "finance",
