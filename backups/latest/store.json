@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-x8wa32-1772678662106",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 50000,
+      "category": "AHA_SHINE",
+      "note": "10 chai nước suối",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-03-25T02:44:22",
+      "timestamp": "2026-03-25T02:44:22",
+      "integrityPrevHash": "b3f25e6ffad74c54864a1595d6833e07637c487ff120ffef34ee67bf2a043358",
+      "integrityVersion": 1,
+      "integrityHash": "d25dbaa66a941648ab7b2343fa883f9c5ae56e75c9054a49742d6b73b113e343",
+      "integrityValid": true
+    },
+    {
       "id": "fin-2zofxq-1772678622126",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -1867,6 +1890,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-xrf32x-1772678662106",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-x8wa32-1772678662106",
+      "createdAt": "2026-03-25T02:44:22",
+      "details": {
+        "type": "XUAT",
+        "amount": 50000,
+        "category": "AHA_SHINE",
+        "note": "10 chai nước suối",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-9lhiue-1772678622126",
       "domain": "finance",
