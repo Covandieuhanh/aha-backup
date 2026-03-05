@@ -1454,6 +1454,29 @@
   ],
   "financeTransactions": [
     {
+      "id": "fin-z14121-1772679311755",
+      "userId": "user-ueguzh-1772213326608",
+      "type": "XUAT",
+      "amount": 185000,
+      "category": "QU_3_ANH_CH_EM",
+      "note": "Cháo hàu 3 ace",
+      "isAdjustment": false,
+      "adjustmentOf": "",
+      "transferId": "",
+      "transferRole": "",
+      "transferCounterpartyUserId": "",
+      "receiptImageDataUrl": "",
+      "receiptImageName": "",
+      "createdBy": "user-ueguzh-1772213326608",
+      "created_by": "user-ueguzh-1772213326608",
+      "createdAt": "2026-02-27T02:55:11",
+      "timestamp": "2026-02-27T02:55:11",
+      "integrityPrevHash": "0300ddc97fab0d781aaa130781dd8df59e861d9d38aafb2c3a8e687f36880e8b",
+      "integrityVersion": 1,
+      "integrityHash": "17f5f39905d6e999a4badf72f53c5362b4fbbc878c4f6d8cd1eb06f3d57b808a",
+      "integrityValid": true
+    },
+    {
       "id": "fin-wynbf1-1772679286521",
       "userId": "user-ueguzh-1772213326608",
       "type": "XUAT",
@@ -2051,6 +2074,24 @@
     }
   ],
   "systemAuditLogs": [
+    {
+      "id": "audit-tjmsn1-1772679311755",
+      "domain": "finance",
+      "action": "FINANCE_TRANSACTION_CREATED",
+      "actorId": "user-ueguzh-1772213326608",
+      "walletUserId": "user-ueguzh-1772213326608",
+      "transactionId": "fin-z14121-1772679311755",
+      "createdAt": "2026-02-27T02:55:11",
+      "details": {
+        "type": "XUAT",
+        "amount": 185000,
+        "category": "QU_3_ANH_CH_EM",
+        "note": "Cháo hàu 3 ace",
+        "isAdjustment": false,
+        "adjustmentOf": "",
+        "hasReceiptImage": false
+      }
+    },
     {
       "id": "audit-c8ixrs-1772679286521",
       "domain": "finance",
