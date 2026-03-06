@@ -10367,13 +10367,38 @@
   "financeCategoryReclassLogs": [],
   "systemAuditLogs": [
     {
-      "id": "audit-kco19j-1772761390999",
+      "id": "audit-qlcucb-1772761665276",
+      "domain": "system",
+      "action": "DATA_RESTORED",
+      "actorId": "user-admin-default",
+      "walletUserId": "",
+      "transactionId": "",
+      "createdAt": "2026-03-06T01:47:45.276Z",
+      "details": {
+        "previousSummary": {
+          "customers": 0,
+          "products": 0,
+          "visits": 0,
+          "referrals": 0,
+          "inventoryTransactions": 151,
+          "financeTransactions": 327,
+          "financeExpenseCategories": 7,
+          "financeCategoryReclassLogs": 0,
+          "systemAuditLogs": 4,
+          "users": 2,
+          "pushSubscriptions": 0
+        },
+        "snapshotWrapped": true
+      }
+    },
+    {
+      "id": "audit-6rfssc-1772759024065",
       "domain": "finance",
       "action": "FINANCE_LEDGER_TAMPER_DETECTED",
       "actorId": "system",
       "walletUserId": "",
       "transactionId": "",
-      "createdAt": "2026-03-06T01:43:10.999Z",
+      "createdAt": "2026-03-06T01:03:44.065Z",
       "details": {
         "invalidCount": 327,
         "invalidTransactionIds": [
@@ -10708,38 +10733,13 @@
       }
     },
     {
-      "id": "audit-mpdqav-1772716691789",
-      "domain": "system",
-      "action": "DATA_RESTORED",
-      "actorId": "user-admin-default",
-      "walletUserId": "",
-      "transactionId": "",
-      "createdAt": "2026-03-05T13:18:11.789Z",
-      "details": {
-        "previousSummary": {
-          "customers": 162,
-          "products": 3,
-          "visits": 5,
-          "referrals": 5,
-          "inventoryTransactions": 0,
-          "financeTransactions": 26,
-          "financeExpenseCategories": 5,
-          "financeCategoryReclassLogs": 4,
-          "systemAuditLogs": 30,
-          "users": 6,
-          "pushSubscriptions": 1
-        },
-        "snapshotWrapped": true
-      }
-    },
-    {
-      "id": "audit-ga7mon-1772716691789",
+      "id": "audit-ld7nxz-1772756501987",
       "domain": "finance",
       "action": "FINANCE_LEDGER_TAMPER_DETECTED",
       "actorId": "system",
       "walletUserId": "",
       "transactionId": "",
-      "createdAt": "2026-03-05T13:18:11.789Z",
+      "createdAt": "2026-03-06T00:21:41.987Z",
       "details": {
         "invalidCount": 327,
         "invalidTransactionIds": [
